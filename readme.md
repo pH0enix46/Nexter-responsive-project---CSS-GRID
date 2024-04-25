@@ -9,7 +9,7 @@ This project is based on Jonas Schmedtmann's [ADVANCED HTML-CSS & SASS(SCSS)](ht
 ✅[View demo](https://ph0enix46.github.io/Nexter-responsive-project---CSS-GRID/) 🐛[Bug report](https://github.com/pH0enix46/Nexter-responsive-project---CSS-GRID/issues)
 
 
-## About Nexter
+## About
 Nothing just me and my teacher [Jonas Schmedtmann](https://github.com/jonasschmedtmann) have fun with CSS GRID😄
 
 Anyways this project is based on advanced CSS GRID💪
