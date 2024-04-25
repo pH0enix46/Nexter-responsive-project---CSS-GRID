@@ -28,8 +28,13 @@ Anyways this project is based on advanced CSS GRID💪
 
 Clone the repo
 ```
- https://github.com/pH0enix46/Nexter-responsive-project---CSS-GRID.git
+https://github.com/pH0enix46/Nexter-responsive-project---CSS-GRID.git
 ```
+install
+```
+npm install
+```
+
 ✅Enjoy! for learning 
 
 ❌But don't copy mine
