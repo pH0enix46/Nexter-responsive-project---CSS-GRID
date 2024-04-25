@@ -1,6 +1,6 @@
 ## This project is based on Jonas Schmedtmann's [ADVANCED HTML-CSS & SASS(SCSS)](https://www.udemy.com/user/jonasschmedtmann/) course. You should check his course. All the credits go to my beautiful teacher Jonas Schmedtmann--
 
-DEMO: [Nexter-responsive-project---CSS-GRID]()
+DEMO: [Nexter-responsive-project---CSS-GRID](https://ph0enix46.github.io/Nexter-responsive-project---CSS-GRID/)
 
 ![Demo 1](img/demo-pic/1.png)
 
